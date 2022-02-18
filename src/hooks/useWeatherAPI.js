@@ -2,7 +2,7 @@ import { useCallback, useEffect, useState } from "react";
 
 const fetchCurrentWeather = ({ authorizationKey, locationName }) => {
   return fetch(
-    `https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0001-001?Authorization=${authorizationKey}&locationName=${locationName}`
+    `https://opendata.cwb.gov.tw/api/v1/rest/datastore/O-A0003-001?Authorization=${authorizationKey}&locationName=${locationName}`
   )
     .then((response) => response.json())
     .then((data) => {
