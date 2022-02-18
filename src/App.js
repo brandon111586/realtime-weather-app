@@ -81,10 +81,13 @@ const App = () => {
             cityName={cityName}
             handleCurrentPageChange={handleCurrentPageChange}
             handleCurrentCityChange={handleCurrentCityChange}
-          ></WeatherSetting>
+          >
+            <div color="white">其他縣市</div>
+          </WeatherSetting>
         )}
       </Container>
     </ThemeProvider>
   );
 };
+
 export default App;

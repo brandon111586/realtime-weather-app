@@ -106,8 +106,8 @@ const Cog = styled(CogIcon)`
   position: absolute;
   top: 30px;
   right: 15px;
-  width: 15px;
-  height: 15px;
+  width: 25px;
+  height: 25px;
   cursor: pointer;
 `;
 
