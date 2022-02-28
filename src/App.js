@@ -81,9 +81,7 @@ const App = () => {
             cityName={cityName}
             handleCurrentPageChange={handleCurrentPageChange}
             handleCurrentCityChange={handleCurrentCityChange}
-          >
-            <div color="white">其他縣市</div>
-          </WeatherSetting>
+          ></WeatherSetting>
         )}
       </Container>
     </ThemeProvider>
