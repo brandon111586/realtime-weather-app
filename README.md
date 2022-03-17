@@ -6,5 +6,6 @@
  - fetch api 進行資料處理
  - Github Pages 網站建置
 
-https://brandon111586.github.io/realtime-weather-app/
+連結:https://brandon111586.github.io/realtime-weather-app/
+
 ![image](https://github.com/brandon111586/realtime-weather-app/blob/main/web_picture.PNG)
