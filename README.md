@@ -1,4 +1,4 @@
-# Learning React Hooks by making a real time weather app
+# Learning React Hooks by making  app
 
 ### You can click the button in the upper right corner to select a different city
 
